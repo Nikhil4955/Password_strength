@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Strength Check
 
 ## Overview
 This C++ program checks whether a given password is strong or weak based on specific criteria. It also provides guidelines for creating a strong password if the entered one is deemed weak.
